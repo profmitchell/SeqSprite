@@ -2,6 +2,8 @@
 
 A Python GUI application for creating sprite sheets from PNG sequences.
 
+<img width="412" alt="Screenshot 2025-03-06 at 1 19 32 PM" src="https://github.com/user-attachments/assets/28f691f9-ea1c-4006-b012-f3ba2b9e4a20" />
+
 ## Features
 - Creates sprite sheets with proper spacing and alignment
 - Handles any number of PNG images
